@@ -3,11 +3,15 @@
 
 ## Site desenvolvido Responsivo, com interação de telas, tela de Notícias, tela da notícia principal, tela de Resultado.
 
-![Footbal_Men_Two_Legs_492484_1920x1080](https://user-images.githubusercontent.com/109220774/180998526-f87488a7-2592-4f65-a036-d433adaa1d89.jpg)
---
-![IMG-20220726-WA0003](https://user-images.githubusercontent.com/109220774/181004634-51cfbbde-5373-4871-8453-f1ab32c4cb22.jpeg)
- 
- ## Responsivo
- 
- ![IMG-20220726-WA0010](https://user-images.githubusercontent.com/109220774/181004923-aa5d2c6b-493b-4d26-8d52-a68c0f83511a.jpeg)
+![Opera Instantâneo_2022-07-26_120200_guilvitor github io](https://user-images.githubusercontent.com/109220774/181041807-d50b2ed8-a579-425b-a73e-ec9e0cfa9cf5.png)
+
+## Noticias
+![Opera Instantâneo_2022-07-26_120228_guilvitor github io](https://user-images.githubusercontent.com/109220774/181041933-b63b2543-2a42-494a-9372-013e41a38d68.png)
+
+# Noticia Selecionada
+![Opera Instantâneo_2022-07-26_120329_guilvitor github io](https://user-images.githubusercontent.com/109220774/181042142-6ea8f5fd-37cb-435b-809f-b9ba89d1ce48.png)
+
+# Responsivo
+
+![Opera Instantâneo_2022-07-26_120441_guilvitor github io](https://user-images.githubusercontent.com/109220774/181042269-878d5827-46ff-4486-b629-53ac313fe1b8.png)
 
